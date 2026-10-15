@@ -17,7 +17,7 @@ try:
 except ImportError:
     from distutils.core import setup, Extension
 
-VERSION = '2.8'
+VERSION = '2.8+ramp.1'
 
 extra_setup_args = {}
 
